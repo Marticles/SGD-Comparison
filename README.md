@@ -12,10 +12,10 @@ Dataset is like below(from Andrew Ng's Course Machine Learing) :
 The learing rate is 0.01 and iterations is 1000.
 ## Requirements   
      
-* tensorflow
-* pandas
-* numpy
-* matplotlib
+* TensorFlow
+* Pandas
+* Numpy
+* Matplotlib
 
 ## Visualization
 * Scatter plot    
