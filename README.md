@@ -8,8 +8,7 @@ In this program,seven different approaches (SGD,Momentum,NAG,Adagrad, Adadelta,R
 Dataset is like below(from Andrew Ng's Course Machine Learing) :
 
 <img src="image/dataset.png">    
-     
-The learing rate is 0.01 and iterations is 1000.
+ 
 ## Requirements   
      
 * TensorFlow
